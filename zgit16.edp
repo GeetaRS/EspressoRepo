@@ -4,8 +4,6 @@
   <_Project>
     <ProjectName val="zgit16"/>
     <VCProjectID val="0"/>
-    <VCActive val="Y"/>
-    <WorkOffline val="N"/>
     <SourceDirectory val="Source"/>
     <ExportsDirectory val="Exports"/>
     <GUID val="{63817B16-D0B8-4F95-A94C-31B382761A19}"/>
